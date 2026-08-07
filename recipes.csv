@@ -1,0 +1,14 @@
+name,ingredients,instructions
+Aloo Paratha,"potato, onion, chili, salt, oil","Prepare potato filling, stuff it into dough, roll and cook on a pan."
+Tomato Pasta,"pasta, tomato, onion, garlic, oil, salt","Boil pasta, cook onion and garlic, add tomato and mix with pasta."
+Vegetable Fried Rice,"rice, carrot, peas, onion, soy sauce, oil","Stir-fry vegetables, add cooked rice and soy sauce, then mix."
+Masala Omelette,"egg, onion, tomato, chili, salt, oil","Beat eggs with vegetables and salt, then cook in a pan."
+Paneer Masala,"paneer, tomato, onion, garlic, ginger, spices, oil","Cook the vegetables and spices, add paneer and cook."
+Poha,"poha, onion, potato, peanuts, turmeric, salt, oil","Cook onion and potato, add poha and spices, then mix."
+Vegetable Sandwich,"bread, tomato, onion, cucumber, cheese, butter","Put vegetables and cheese between bread and toast."
+
+recipe_name,ingredients,steps
+Pasta,"pasta,tomato,cheese","Boil pasta and add sauce"
+Sandwich,"bread,vegetable,cheese","Add filling and grill"
+Maggi,"noodles,water,masala","Boil noodles and add masala"
+Pizza,"bread,cheese,tomato","Bake with toppings"
